@@ -1,15 +1,15 @@
 {
     "boii_diving": {
-        "version": "1.0.0",
+        "version": "0.2.0",
         "download": "https://portal.cfx.re/assets/granted-assets",
         "changelog": [
-            "Resource was never moved to a stable 1.0.0 now it is.",
+            "Resource was never moved to a stable 1.0.0 so will increment properly.",
             "Entire rebuild and refactor throughout and general code improvements.",
             "Removed the minigame requirement to open, the environment is enough of a minigame.",
             "Replaced NUI display with a drawn one, since it is being updated every frame anyway.",
             "No longer requires any external dependencies, plug and play (other than adding items).",
-            "Diving tanks can now be refilled by placing a compressor.",
-            "Rebreathers are now destroyed when empty correctly and restores old clothing when expires."
+            "Diving tanks can now be refilled by placing a compressor, rebreathers cant",
+            "Chance for police alerts has been removed, can be added back in if required"
         ]
     }
 }
