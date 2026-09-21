@@ -11,5 +11,14 @@
             "Diving tanks can now be refilled by placing a compressor, rebreathers cant",
             "Chance for police alerts has been removed, can be added back in if required"
         ]
+    },
+    "boii_stripper_laundering": {
+        "version": "0.1.0",
+        "download": "https://portal.cfx.re/assets/granted-assets",
+        "changelog": [
+            "Obvious one resource rename, mainly for better SEO",
+            "Full rebuild from old boii_thotwash and refactored throughout",
+            "No longer relies on any external depedencies"
+        ]
     }
 }
